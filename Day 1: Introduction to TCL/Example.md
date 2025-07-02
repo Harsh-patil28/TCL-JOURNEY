@@ -1,5 +1,10 @@
-# This is a comment
+# Example
+```tcl
 set a 5
+
 set b 10
+
 set sum [expr $a + $b]
+
 puts "Sum is: $sum"
+```
