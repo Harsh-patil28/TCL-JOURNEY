@@ -1,4 +1,4 @@
-# 📘 TCL Learning – Day 4
+# 📘 TCL Learning – Day 5
 
 Topic: Lists and List Manipulation Commands in TCL
 
